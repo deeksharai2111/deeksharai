@@ -9,16 +9,7 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="#"><img width="32px" alt="Twitter" title="Twitter" 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-          </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/yohannes_sida"><img width="32px" alt="Ko-fi" title="Buy me a coffee" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.linkedin.com/in/yohannes-tesfaye-240478149/"><img width="32px" alt="LinkedIn" title="LinkedIn" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+
 
 <br/>
 
